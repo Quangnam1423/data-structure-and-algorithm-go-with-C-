@@ -1,0 +1,9 @@
+8
+TongQuangNam 7
+TruongThiTam 6
+TongVanTuan 9
+TruongHoangManh 5
+TongVanTien 2
+DaoVanBinh 1
+TongAnNa 10
+TruongAnhTu 9.9
